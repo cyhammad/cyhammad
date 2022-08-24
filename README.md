@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cyhammad
 - 👀 I’m interested in web development, game development and mobile app development.
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on full stack development.
+- 🌱 I’m currently learning Unity Engine, Blender
+- 💞️ I’m looking to collaborate on full stack development using React, Next, Django etc.
 - 📫 How to reach me hammad727272@gmail.com, whatsapp: +923363107575.
 
 <!---
