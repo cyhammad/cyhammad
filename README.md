@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @cyhammad
-- 👀 I’m interested in web development, game development and mobile app development.
-- 🌱 I’m currently learning Unity Engine, Blender
-- 💞️ I’m looking to collaborate on full stack development using React, Next, Django etc.
-- 📫 How to reach me hammad727272@gmail.com, whatsapp: +923363107575.
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
@@ -52,10 +47,10 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cyhammad&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyhammad&layout=compact&theme=vision-friendly-dark)](https://github.com/cyhammad/github-readme-stats)
+
+
   <h2>Summary</h2>
   <p>Experienced and highly skilled Full Stack Developer with expertise in React.js, Next.js, React Native, Django,
     Tailwind CSS, Firebase, DaisyUI, Bootstrap, MERN stack, and Google Ad. Adept at developing robust and scalable web and
@@ -135,6 +130,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
   <p>Feel free to reach out to discuss any potential collaboration or project opportunities. I'm always eager to contribute
     my skills and expertise to create outstanding digital solutions.</p>
+- 👋 Hi, I’m @cyhammad
+- 👀 I’m interested in web development, game development and mobile app development.
+- 🌱 I’m currently learning Unity Engine, Blender
+- 💞️ I’m looking to collaborate on full stack development using React, Next, Django etc.
+- 📫 How to reach me hammad727272@gmail.com, whatsapp: +923363107575.
 <!---
 cyhammad/cyhammad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
