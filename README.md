@@ -22,6 +22,17 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+
+- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- 👀 I’m interested in web development, game development and mobile app development.
+
+- 🌱 I’m currently learning Unreal Engine, Blender and C++
+
+- 💞️ I’m looking to collaborate on full stack development using React, Next, Django etc.
+
+- :mailbox:How to reach me: hammad727272@gmail.com, whatsapp: +923363107575.
+
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
@@ -74,11 +85,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <p>Feel free to reach out to discuss any potential collaboration or project opportunities. I'm always eager to contribute
     my skills and expertise to create outstanding digital solutions.</p>
 </div>
-- 👋 Hi, I’m @cyhammad
-- 👀 I’m interested in web development, game development and mobile app development.
-- 🌱 I’m currently learning Unity Engine, Blender
-- 💞️ I’m looking to collaborate on full stack development using React, Next, Django etc.
-- 📫 How to reach me hammad727272@gmail.com, whatsapp: +923363107575.
 <!---
 cyhammad/cyhammad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
