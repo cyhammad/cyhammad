@@ -48,7 +48,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original.svg" title="Unreal" alt="Unreal" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/tree/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" title="SQLite" alt="SQLite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" title="Slack" alt="Slack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" alt="Sass" width="40" height="40"/>&nbsp;
