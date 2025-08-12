@@ -68,14 +68,24 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyhammad&layout=compact&theme=vision-friendly-dark)](https://github.com/cyhammad/github-readme-stats)
 
 
-  <h2>Summary</h2>
-  <p>Experienced and highly skilled Full Stack Developer with expertise in React.js, Next.js, React Native, Django,
-    Tailwind CSS, Firebase, DaisyUI, Bootstrap, MERN stack, and Google Ad. Adept at developing robust and scalable web and
-    mobile applications, I bring a passion for crafting efficient code and delivering exceptional user experiences. I thrive
-    in collaborative environments, leveraging my strong problem-solving skills to drive successful project outcomes.</p>
+<h2>Summary</h2>
+<p>
+  Experienced and highly skilled Full Stack Developer with expertise in building robust and scalable web and mobile applications. I bring a passion for crafting efficient code and delivering exceptional user experiences. I thrive in collaborative environments, leveraging my strong problem-solving skills to drive successful project outcomes.
+</p>
 
-  <p>Feel free to reach out to discuss any potential collaboration or project opportunities. I'm always eager to contribute
-    my skills and expertise to create outstanding digital solutions.</p>
+<h3>Core Skills</h3>
+<ul>
+  <li><strong>Frontend:</strong> React.js, Next.js, React Native, MERN Stack</li>
+  <li><strong>Backend:</strong> Django, Node.js, Express.js</li>
+  <li><strong>Styling & UI:</strong> Tailwind CSS, Shadcn, Framer Motion, Radix UI, DaisyUI, Bootstrap</li>
+  <li><strong>Database & Hosting:</strong> Firebase, MongoDB</li>
+  <li><strong>Tools & Others:</strong> Google Ads, Git, API Integration</li>
+</ul>
+
+<p>
+  Feel free to reach out to discuss any potential collaboration or project opportunities. I'm always eager to contribute my skills and expertise to create outstanding digital solutions.
+</p>
+
 </div>
 <!---
 cyhammad/cyhammad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
