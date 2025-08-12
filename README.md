@@ -76,15 +76,17 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <h3>Core Skills</h3>
 <ul>
   <li><strong>Frontend:</strong> React.js, Next.js, React Native, MERN Stack</li>
-  <li><strong>Backend:</strong> Django, Node.js, Express.js</li>
+  <li><strong>Backend:</strong> Django, Node.js, Express.js, Laravel</li>
   <li><strong>Styling & UI:</strong> Tailwind CSS, Shadcn, Framer Motion, Radix UI, DaisyUI, Bootstrap</li>
-  <li><strong>Database & Hosting:</strong> Firebase, MongoDB</li>
+  <li><strong>Database & ORM:</strong> Firebase, MongoDB, Prisma, NeonDB, PostgreSQL</li>
+  <li><strong>Headless CMS & Content:</strong> Sanity.io</li>
   <li><strong>Tools & Others:</strong> Google Ads, Git, API Integration</li>
 </ul>
 
 <p>
   Feel free to reach out to discuss any potential collaboration or project opportunities. I'm always eager to contribute my skills and expertise to create outstanding digital solutions.
 </p>
+
 
 </div>
 <!---
